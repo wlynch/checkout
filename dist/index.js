@@ -1,3 +1,1 @@
-try {
-  console.log(`please don't run this`);
-}
+console.log(`please don't run this`);
